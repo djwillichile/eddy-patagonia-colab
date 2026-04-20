@@ -4,7 +4,7 @@ Public Google Colab notebook for the Chile and Patagonia eddy covariance workflo
 
 ## Open in Colab
 
-[Open in Google Colab](https://colab.research.google.com/github/djwillichile/eddy-patagonia-colab/blob/main/eddy_covariance_pipeline_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/djwillichile/eddy-patagonia-colab/blob/main/eddy_covariance_pipeline_colab.ipynb)
 
 ## Scope
 
